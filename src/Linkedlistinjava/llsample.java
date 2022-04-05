@@ -10,10 +10,10 @@ public class llsample {
 		LinkedList l1=new LinkedList();
 		l1.add(10);
 		l1.add(10.34f);
-		l1.add("Link");
-		l1.add('f');
-		l1.add(null);
-		l1.add("Link");
+// 		l1.add("Link");
+// 		l1.add('f');
+// 		l1.add(null);
+// 		l1.add("Link");
 		
 		LinkedList<String> l2=new LinkedList();
 		l2.add("tom");
