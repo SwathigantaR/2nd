@@ -31,6 +31,13 @@ public class llsample {
 		al.add(null);
 		al.add('m');
 		
+		ArrayList al2= new ArrayList<> ();
+		al2.add(10);
+		al2.add(20.34f);
+		al2.add("swathi");
+		al2.add(20.34f);
+		al2.add(null);
+		al2.add('m');
 		
 //		System.out.println(l1);
 //		System.out.println(l1.getFirst());
