@@ -37,7 +37,7 @@ public class llsample {
 		al2.add("swathi");
 		al2.add(20.34f);
 		al2.add(null);
-		al2.add('m');
+// 		al2.add('m');
 		
 		System.out.println(al2);
 		System.out.println(al);
