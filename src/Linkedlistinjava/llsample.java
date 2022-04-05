@@ -39,7 +39,10 @@ public class llsample {
 		al2.add(null);
 		al2.add('m');
 		
-		system.out.println(al2);
+		System.out.println(al2);
+		System.out.println(al);
+		System.out.println(l1);
+		System.out.println(l2);
 		
 //		System.out.println(l1);
 //		System.out.println(l1.getFirst());
