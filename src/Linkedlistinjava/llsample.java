@@ -44,6 +44,10 @@ public class llsample {
 		System.out.println(l1);
 		System.out.println(l2);
 		
+		System.out.println();
+		
+		
+		
 //		System.out.println(l1);
 //		System.out.println(l1.getFirst());
 //		System.out.println(l1.size());
